@@ -40,16 +40,16 @@ global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Azami_Mods'
-global.ig = 'https://instagram.com/azami_ofc'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
-global.paypal = 'https://paypal.me/Azami19'
-global.git = 'https://github.com/GataNina-Li'
-global.nn = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Grupo ofc
-global.nnn = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
-global.nnnn = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //colaboración multi bots
-global.nnnnn = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' //Colaboración CuriosityBot - NovaBot 
-global.nnnnnn = 'https://chat.whatsapp.com/KlRcEfl8snBEEOA0JXzw5A' //enlace curiosity 
+global.yt = 'https://www.instagram.com/ancelzzz/'
+global.ig = 'https://www.instagram.com/ancelzzz/'
+global.md = 'https://wa.me/56986469687'
+global.paypal = 'https://www.instagram.com/ancelzzz/'
+global.git = 'https://www.instagram.com/ancelzzz/'
+global.nn = 'https://www.instagram.com/ancelzzz/' //IG 
+global.nnn = 'https://www.instagram.com/ancelzzz/' //𝕵𝖔𝖘𝖘🩸
+global.nnnn = 'https://www.instagram.com/ancelzzz/' //𝕵𝖔𝖘𝖘🩸
+global.nnnnn = 'https://www.instagram.com/ancelzzz/' //𝕵𝖔𝖘𝖘🩸 
+global.nnnnnn = 'https://www.instagram.com/ancelzzz/' // 𝕵𝖔𝖘𝖘🩸 
 global.linkSity = [yt, ig, md, paypal, git, nn]
 
 //Raíz

@@ -11,7 +11,7 @@ import { platform } from 'process'
 global.__filename = function filename(pathURL = import.meta.url, rmPrefix = platform !== 'win32') { return rmPrefix ? /file:\/\/\//.test(pathURL) ? fileURLToPath(pathURL) : pathURL : pathToFileURL(pathURL).toString() }; global.__dirname = function dirname(pathURL) { return path.dirname(global.__filename(pathURL, true)) }; global.__require = function require(dir = import.meta.url) { return createRequire(dir) }
 const __dirname = global.__dirname(import.meta.url)
 
-global.owner = [['527294888993', 'Creador', true], ['5492266466080', 'Colaborador', true], ['593968585383'], ['51992004117'], ['5492266613038'], ['573106040746'], ['50576390682'], ['5217294888993'], ['50558124470'], ['51929972576']]
+global.owner = [['51930454874', 'Creador', true], ['50360082744', 'Colaborador', true], ['5491162522169'], ['59174332123'], ['59163552945'], ['56986469687'], ['51923844756'], ['56986469687'], ['56986469687'], ['56986469687']]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -23,12 +23,12 @@ global.suittag = ['994400359205']
 global.mods = []
 global.prems = []
 
-global.packname = 'CuriosityBot-MD'
+global.packname = '𝕵𝖔𝖘𝖘🩸'
 global.author = ''
-global.wm = '© CuriosityBot-MD'
-global.wm2 = '𝗖𝗎𝗋𝗂𝗈𝗌𝗂𝗍𝗒 : 𝗕𝗈𝗍'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot-MD'
+global.wm = '© 𝕵𝖔𝖘𝖘🩸'
+global.wm2 = '𝕵𝖔𝖘𝖘🩸 𝗕𝗈𝗍'
+global.azami = '𝕵𝖔𝖘𝖘🩸'
+global.cb = '𝕵𝖔𝖘𝖘🩸'
 
 global.vs = '1.0.2'
 global.library = 'Baileys'
