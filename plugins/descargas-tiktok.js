@@ -3,7 +3,7 @@ import { tiktokdl } from '@bochilteam/scraper'
 
 var handler = async (m, { conn, text, args, usedPrefix, command}) => {
 
-if (!args[0]) throw `*⚠️ INGRESE UN LINK DE TIKTOK*\n\n❕ EJEMPLO:\n${usedPrefix + command} https://vm.tiktok.com/ZMYG92bUh/`
+if (!args[0]) throw `*⚠️ INGRESE UN LINK DE TIKTOK 𝕵𝖔𝖘𝖘 𝕭𝖔𝖙🏴‍☠️*\n\n❕ EJEMPLO:\n${usedPrefix + command} https://vm.tiktok.com/ZMYG92bUh/`
 if (!args[0].match(/tiktok/gi)) throw `*⚠️ VERIFICA QUE EL LINK SEA CORRECTO*`
 
 m.react(rwait)
