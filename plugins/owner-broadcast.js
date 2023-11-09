@@ -17,11 +17,11 @@ for (let i = 0; i < groups2.length; i++) {
 const group = groups2[i];
 const delay = i * 6000; // 6 seg
 setTimeout(async () => {
-await conn.reply(group, `––––––『 *BROADCAST* 』––––––\n\n` + teks4, { mentions: usersTag2 }, { quoted: fkontak });
+await conn.reply(group, `––––––『 *𝕵𝖔𝖘𝖘 𝕭𝖔𝖙🏴‍☠️* 』––––––\n\n` + teks4, { mentions: usersTag2 }, { quoted: fkontak });
 }, delay)}
 for (let user of chats2) {
 await new Promise(resolve => setTimeout(resolve, 5000)) // 5 segundos
-await conn.reply(user, `––––––『 *BROADCAST* 』––––––\n\n` + teks4, fkontak, null)
+await conn.reply(user, `––––––『 *𝕵𝖔𝖘𝖘 𝕭𝖔𝖙🏴‍☠️* 』––––––\n\n` + teks4, fkontak, null)
 totalPri2++
 if (totalPri2 >= 500000) { 
 break
