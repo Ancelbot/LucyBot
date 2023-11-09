@@ -5,8 +5,8 @@ global.dfail('admin', m, conn)
 throw false
 }
 let pesan = args.join` `
-let oi = `*@ancelzzz:* ${pesan}`
-let teks = `*𝑳𝑶𝑺 𝑰𝑵𝑽𝑶𝑪𝑶𝑶𝑶 𝑮𝑨𝑨𝑨𝑨🏴‍☠️*\n*│*\n*- ̗̀  Iᥒ𝗍ᥱgrᥲᥒ𝗍ᥱs🏴‍☠️*  ${oi}\n\n`
+let oi = `* ̗̀  Iᥒ𝗍ᥱgrᥲᥒ𝗍ᥱs🏴‍☠️* ${pesan}`
+let teks = `*⺀𝑳𝑶𝑺 𝑰𝑵𝑽𝑶𝑪𝑶𝑶𝑶 𝑮𝑨𝑨𝑨𝑨🏴‍☠️⺀*\n\n*@ancelzzz*\n ${oi}\n\n`
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let mentionedJid = [who]
 let username = conn.getName(who)
