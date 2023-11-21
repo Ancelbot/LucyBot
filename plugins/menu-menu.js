@@ -70,7 +70,7 @@ let td = `${pickRandom([d1,d2,d3,d4,d5,d6])}`
     }
     await conn.reply(m.chat, '*Enviando el menu . . .*', fload, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: '👋 Hola!!', body: saludo, sourceUrl: global.ig, thumbnail: await (await fetch(pp)).buffer() }}})
 m.react('🚀')     
-let menu = `╔═══[ 𝕵𝖔𝖘𝖘 𝕭𝖔𝖙🏴‍☠️ ]═══╗
+let menu = `╔═══[ 𝐿𝑢𝑐𝑦 𝐵𝑜𝑡 🌸 ]═══╗
 ║╭──────────────
 ║├⫹⫺ *Nombre :* ${name}
 ║├⫹⫺ *Limite :* ${diamond}
@@ -80,11 +80,11 @@ let menu = `╔═══[ 𝕵𝖔𝖘𝖘 𝕭𝖔𝖙🏴‍☠️ ]═══�
 ║╰──────────────
 ╚══════════════════⋆
 
-╔═══[ 𝕵𝖔𝖘𝖘 𝕭𝖔𝖙🏴‍☠️ ]═══╗
+╔═══[ 𝐿𝑢𝑐𝑦 𝐵𝑜𝑡 🌸 ]═══╗
 ║╭──────────────
-║├⫹⫺ *Owner :* 𝑱𝒐𝒔𝒔 𝒑𝒊𝒏𝒈𝒐𝒎
-║├⫹⫺ *Numero:* wa.me/56986469687
-║├⫹⫺ *Instagram: @ancelzzz
+║├⫹⫺ *Creador :* 𝐿𝑢𝑐𝑦 🌸 
+║├⫹⫺ *Numero:*wa.me/ +526566596788
+║├⫹⫺ *Instagram: https://www.instagram.com/wtf.lcy/
 ║├⫹⫺ *Tiempo Activo:* ${uptime}
 ║├⫹⫺ *Registrado :* ${rtotalreg} de ${totalreg} usuarios
 ║╰────────────── 

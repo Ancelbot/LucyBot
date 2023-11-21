@@ -6,8 +6,8 @@ let str = `*「 🌟 DONAR 🌟 」*
 💙 *PAYPAL*
 🩵 *${paypal}*
 ---------------------
-👑 *Creador del bo 𝕵𝖔𝖘𝖘 𝕭𝖔𝖙🏴‍☠️t*
-💬 wa.me/56986469687`
+👑 *Creador del bo 𝐿𝑢𝑐𝑦 𝐵𝑜𝑡*
+💬 wa.me/+526566596788`
 
 await conn.sendFile(m.chat, media, 'Curiosity.jpg', str, fkontak)}
 handler.tags = ['main']

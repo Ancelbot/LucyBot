@@ -5,14 +5,14 @@ global.dfail('admin', m, conn)
 throw false
 }
 let pesan = args.join` `
-let oi = ` ̗̀  Iᥒ𝗍ᥱgrᥲᥒ𝗍ᥱs:🏴‍☠️ ${pesan}`
-let teks = `*⺀𝑳𝑶𝑺 𝑰𝑵𝑽𝑶𝑪𝑶𝑶𝑶 𝑮𝑨𝑨𝑨𝑨🏴‍☠️⺀*\n\n*@ancelzzz*\n\n ${oi}\n`
+let oi = ` ̗̀  🌸 Iᥒ𝗍ᥱgrᥲᥒ𝗍ᥱs ! ${pesan}`
+let teks = `*⺀ ძᥱs⍴᰻ᥱr𝗍ᥱᥒ malos ! 🍧⺀*\n\n*@wtf.lcy*\n\n ${oi}\n`
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let mentionedJid = [who]
 let username = conn.getName(who)
 for (let username of participants) {
-teks += `*│➭* @${username.id.split('@')[0]}\n`}
-teks += `*𝕵𝖔𝖘𝖘🏴‍☠️*`
+teks += `*❀* @${username.id.split('@')[0]}\n`}
+teks += `*𝐿𝑢𝑐𝑦 𝐵𝑜𝑡*`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 
 }

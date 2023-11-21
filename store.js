@@ -40,16 +40,16 @@ global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 
 //Enlaces
-global.yt = 'https://www.instagram.com/ancelzzz/'
-global.ig = 'https://www.instagram.com/ancelzzz/'
-global.md = 'https://wa.me/56986469687'
-global.paypal = 'https://www.instagram.com/ancelzzz/'
-global.git = 'https://www.instagram.com/ancelzzz/'
-global.nn = 'https://www.instagram.com/ancelzzz/' //IG 
-global.nnn = 'https://www.instagram.com/ancelzzz/' //𝕵𝖔𝖘𝖘🩸
-global.nnnn = 'https://www.instagram.com/ancelzzz/' //𝕵𝖔𝖘𝖘🩸
-global.nnnnn = 'https://www.instagram.com/ancelzzz/' //𝕵𝖔𝖘𝖘🩸 
-global.nnnnnn = 'https://www.instagram.com/ancelzzz/' // 𝕵𝖔𝖘𝖘🩸 
+global.yt = 'https://www.instagram.com/wtf.lcy/'
+global.ig = 'https://www.instagram.com/wtf.lcy/'
+global.md = 'https://wa.me/+526566596788'
+global.paypal = 'https://www.instagram.com/wtf.lcy/'
+global.git = 'https://www.instagram.com/wtf.lcy/'
+global.nn = 'https://www.instagram.com/wtf.lcy/' //IG 
+global.nnn = 'https://www.instagram.com/wtf.lcy/' //𝐿𝑢𝑐𝑦 🩸
+global.nnnn = 'https://www.instagram.com/wtf.lcy/' //𝐿𝑢𝑐𝑦 🩸
+global.nnnnn = 'https://www.instagram.com/wtf.lcy/' //𝐿𝑢𝑐𝑦 🩸 
+global.nnnnnn = 'https://www.instagram.com/wtf.lcy/' // 𝐿𝑢𝑐𝑦 🩸 
 global.linkSity = [yt, ig, md, paypal, git, nn]
 
 //Raíz
